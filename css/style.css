@@ -1,0 +1,20 @@
+thead,
+tbody {
+  text-align: center;
+}
+
+.container__showTable,
+.container__ajouter,
+.container__modifier {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column ;
+}
+
+.col{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
